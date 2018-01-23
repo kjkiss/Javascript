@@ -12,7 +12,7 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
   - ccccc
   - ddddd
 
-![pic](https://octodex.github.com/images/yaktocat.png)
+[pic](https://octodex.github.com/images/yaktocat.png)
 
     function abc(){
         return 'abc';
